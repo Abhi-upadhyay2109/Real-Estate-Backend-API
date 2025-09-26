@@ -1,0 +1,182 @@
+[
+  {
+    "id": "p1",
+    "title": "2BHK Cozy Apartment near Cyberhub",
+    "location": "Gurgaon",
+    "price": 6500000,
+    "bhk": 2,
+    "type": "Flat",
+    "description": "A bright 2BHK apartment close to Cyberhub, modern kitchen and balcony."
+  },
+  {
+    "id": "p2",
+    "title": "3BHK Luxury Apartment in DLF Phase 5",
+    "location": "Gurgaon",
+    "price": 12500000,
+    "bhk": 3,
+    "type": "Flat",
+    "description": "Spacious 3BHK with clubhouse and pool in DLF Phase 5."
+  },
+  {
+    "id": "p3",
+    "title": "1BHK Budget Flat near Huda City Centre",
+    "location": "Gurgaon",
+    "price": 3200000,
+    "bhk": 1,
+    "type": "Flat",
+    "description": "Compact 1BHK apartment ideal for young professionals."
+  },
+  {
+    "id": "p4",
+    "title": "Independent Villa in South Delhi",
+    "location": "New Delhi",
+    "price": 45000000,
+    "bhk": 5,
+    "type": "Villa",
+    "description": "Large independent villa with garden and parking in a quiet street."
+  },
+  {
+    "id": "p5",
+    "title": "2BHK Flat in Hauz Khas",
+    "location": "New Delhi",
+    "price": 11000000,
+    "bhk": 2,
+    "type": "Flat",
+    "description": "Well-maintained 2BHK close to markets and metro."
+  },
+  {
+    "id": "p6",
+    "title": "Studio Apartment in Koramangala",
+    "location": "Bengaluru",
+    "price": 4200000,
+    "bhk": 0,
+    "type": "Studio",
+    "description": "Compact studio apartment with built-in furniture."
+  },
+  {
+    "id": "p7",
+    "title": "3BHK Duplex in Whitefield",
+    "location": "Bengaluru",
+    "price": 9800000,
+    "bhk": 3,
+    "type": "Duplex",
+    "description": "Modern duplex near IT parks with good connectivity."
+  },
+  {
+    "id": "p8",
+    "title": "4BHK Independent House in Salt Lake",
+    "location": "Kolkata",
+    "price": 7500000,
+    "bhk": 4,
+    "type": "House",
+    "description": "Comfortable family home in a residential area."
+  },
+  {
+    "id": "p9",
+    "title": "2BHK Sea-facing Apartment",
+    "location": "Mumbai",
+    "price": 22000000,
+    "bhk": 2,
+    "type": "Flat",
+    "description": "Sea-facing 2BHK with balcony and sea view."
+  },
+  {
+    "id": "p10",
+    "title": "1 RK near Andheri West",
+    "location": "Mumbai",
+    "price": 4000000,
+    "bhk": 0,
+    "type": "Studio",
+    "description": "Small 1 RK ideal for single occupants near transport."
+  },
+  {
+    "id": "p11",
+    "title": "3BHK Family Apartment in Powai",
+    "location": "Mumbai",
+    "price": 14000000,
+    "bhk": 3,
+    "type": "Flat",
+    "description": "Spacious family apartment with amenities and school nearby."
+  },
+  {
+    "id": "p12",
+    "title": "Farmhouse on Outskirts",
+    "location": "Pune",
+    "price": 12000000,
+    "bhk": 3,
+    "type": "Farmhouse",
+    "description": "Green farmhouse with open space and private well."
+  },
+  {
+    "id": "p13",
+    "title": "1BHK in Kharadi",
+    "location": "Pune",
+    "price": 3800000,
+    "bhk": 1,
+    "type": "Flat",
+    "description": "Affordable 1BHK near IT hub Kharadi."
+  },
+  {
+    "id": "p14",
+    "title": "2BHK Cozy Flat in Indiranagar",
+    "location": "Bengaluru",
+    "price": 7600000,
+    "bhk": 2,
+    "type": "Flat",
+    "description": "Stylish 2BHK close to cafes and nightlife."
+  },
+  {
+    "id": "p15",
+    "title": "Penthouse 4BHK in Central Bengaluru",
+    "location": "Bengaluru",
+    "price": 30000000,
+    "bhk": 4,
+    "type": "Penthouse",
+    "description": "Luxury penthouse with terrace and modern fittings."
+  },
+  {
+    "id": "p16",
+    "title": "Affordable 2BHK in Noida Sector 18",
+    "location": "Noida",
+    "price": 5200000,
+    "bhk": 2,
+    "type": "Flat",
+    "description": "Well-connected 2BHK within budget."
+  },
+  {
+    "id": "p17",
+    "title": "3BHK in Sector 50 Gurgaon",
+    "location": "Gurgaon",
+    "price": 9500000,
+    "bhk": 3,
+    "type": "Flat",
+    "description": "Comfortable 3BHK near schools and markets."
+  },
+  {
+    "id": "p18",
+    "title": "2BHK Apartment near Cyber City",
+    "location": "Gurgaon",
+    "price": 7000000,
+    "bhk": 2,
+    "type": "Flat",
+    "description": "Modern 2BHK with gym and community hall."
+  },
+  {
+    "id": "p19",
+    "title": "1BHK in Electronic City",
+    "location": "Bengaluru",
+    "price": 3100000,
+    "bhk": 1,
+    "type": "Flat",
+    "description": "Near Electronic City, suitable for IT professionals."
+  },
+  {
+    "id": "p20",
+    "title": "Studio Loft in Bandra",
+    "location": "Mumbai",
+    "price": 6500000,
+    "bhk": 0,
+    "type": "Studio",
+    "description": "Trendy loft studio near Bandra's cafés."
+  }
+]
