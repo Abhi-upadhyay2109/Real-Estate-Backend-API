@@ -33,7 +33,7 @@ Built with **Node.js**, **Express**, and a JSON-based mock database (can later m
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/real-estate-backend.git
+git clone https://github.com/Abhi-upadhyay2109/Real-Estate-Backend-API.git
 cd real-estate-backend
 ```
 
