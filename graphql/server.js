@@ -52,7 +52,7 @@ async function initGraphQL(app) {
   await server.start();
   server.applyMiddleware({ app, path: "/graphql" });
 
-  console.log("🚀 GraphQL endpoint ready at http://localhost:8000/graphql");
+  console.log("GraphQL endpoint ready at http://localhost:8000/graphql");
 }
 
 module.exports = { initGraphQL };
