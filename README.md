@@ -58,7 +58,7 @@ http://localhost:8000/properties
 ```
 - Fetch a single property by ID:  
 ```
-http://localhost:8000/properties/1
+http://localhost:8000/properties/p1
 ```
 - Search properties (query, BHK, location):  
 ```
@@ -66,7 +66,7 @@ http://localhost:8000/search?query=flat&location=Gurgaon
 ```
 - Get property recommendations:  
 ```
-http://localhost:8000/recommendations/1
+http://localhost:8000/recommendations/p1
 ```
 
 #### GraphQL Endpoint
